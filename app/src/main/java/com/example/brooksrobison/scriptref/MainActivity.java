@@ -8,7 +8,9 @@ import android.widget.EditText;
 
 
 public class MainActivity extends AppCompatActivity {
+
     public final static String EXTRA_MESSAGE = "scripture";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
